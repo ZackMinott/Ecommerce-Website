@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://zackminott.github.io/rose-apparel",
   "dependencies": {
+    "firebase": "^7.5.0",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
